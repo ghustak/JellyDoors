@@ -16,20 +16,28 @@ Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage
 
 ---
 
-## 🏷️ Step 1: Tag Your Media in Jellyfin
+## Step 1: Download and Install Prerequistes
+In order for the script to function and be implemented you will need to have download and installed both the:
+  - File Transformation Plugin: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
+  - Jellyfin Java Script Injector: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
+  - (Optional Elegantfin *Only used with the Elegantfin layout: https://github.com/lscambo13/ElegantFin)
+
+---
+
+## 🏷️ Step 2: Tag Your Media in Jellyfin
 
 1. In Jellyfin, select the movies or TV episodes you want in each tier.
-2. Click the **3 dots menu** on the items (or multi-select items) -> **Edit Metadata**.
+2. Click the **3 dots menu** on the movies or specific epsiodes -> **Edit Metadata**.
 3. Under **Tags**, add your desired fear tag strings (e.g., `NotScaryDoor`, `ScaryDoor`, `VeryScaryDoor`).
 4. Ensure the `JALLOW_TAGS` object in the JavaScript code blocks below match your exact tag names.
 
 ---
 
-## Step 2: Select your preferred format:
-  -Default Jellyfin Without Date Check
-  -Default Jellyfin With Date Check
-  -Elegantfin Without Date Check
-  -Elegantfin With Date Check
+## Step 3: Select your preferred format:
+  1. Default Jellyfin Without Date Check
+  2. Default Jellyfin With Date Check
+  3. Elegantfin Without Date Check
+  4. Elegantfin With Date Check
 
   ---
 
