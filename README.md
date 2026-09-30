@@ -70,7 +70,7 @@ https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20With%20Date
 
 Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS**.
 
-
+https://github.com/ghustak/JellyDoors/blob/main/Elegantfin%20Without%20Date%20Check%20-%20CSS
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
