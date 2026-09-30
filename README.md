@@ -58,7 +58,7 @@ https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20With%20Date
 
 Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS**.
 
-[Default Jellyfin With Date Check - CSS.txt](https://github.com/user-attachments/files/32836696/Default.Jellyfin.With.Date.Check.-.CSS.txt)
+https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20With%20Date%20Check%20-%20CSS
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
