@@ -1,4 +1,3 @@
-[Elegantfin With Date Check - CSS.txt](https://github.com/user-attachments/files/32836848/Elegantfin.With.Date.Check.-.CSS.txt)[Elegantfin Without Date Check - Java Script.txt](https://github.com/user-attachments/files/32836832/Elegantfin.Without.Date.Check.-.Java.Script.txt)[Elegantfin Without Date Check - CSS.txt](https://github.com/user-attachments/files/32836815/Elegantfin.Without.Date.Check.-.CSS.txt)[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32836746/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)[Default Jellyfin Without Date Check - CSS.txt](https://github.com/user-attachments/files/32836501/Default.Jellyfin.Without.Date.Check.-.CSS.txt)# JellyDoors
 # 🎃 Halloween "Shuffle Doors" for Jellyfin (HBO Max Style)
 
 Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage! This script injects three customizable fear-tier doors (**Not Scary**, **Scary**, and **Very Scary**) onto your dashboard. Clicking any door queries your server for movies and TV episodes tagged with that fear level and instantly launches a random pick.
@@ -57,11 +56,11 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 
 [Default Jellyfin With Date Check - CSS.txt](https://github.com/user-attachments/files/32836696/Default.Jellyfin.With.Date.Check.-.CSS.txt)
 
-
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
 
 [Uploading Default Jellyfin With Date Check - Java Script.txt…]()
 
+---
 
 ## Elegantfin Without Date Check
 
@@ -73,13 +72,13 @@ Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector
 
 [Uploading Elegantfin Without Date Check - Java Script.txt…]()
 
+---
 
 ## Elegantfin With Date Check
 
 Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS**.
 
 [Uploading Elegantfin With Date Check - CSS.txt…]()
-
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
 
