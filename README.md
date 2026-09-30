@@ -13,7 +13,7 @@ Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage
 - **Tag-Based Searching:** Uses Jellyfin's `Tags` query API so you don't need to maintain manual collection folders.
 - **Dual Theme Support:** Custom layout scanners for both standard **Jellyfin Web** and **Elegantfin**.
 - **Optional Seasonal Auto-Toggle:** Includes versions with built-in date checks to automatically display doors only between October 1st and October 31st.
-
+- **Disclaimer:** Gemini was used in parts of the coding process. All rights to Elegantfin and its layout are to its original page found here: https://github.com/lscambo13/ElegantFin
 ---
 
 ## Step 1: Download and Install Prerequistes
@@ -86,4 +86,4 @@ https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20With%20Date
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
-[Elegantfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32836878/Elegantfin.With.Date.Check.-.Java.Script.txt)
+https://github.com/ghustak/JellyDoors/blob/main/Elegantfin%20With%20Date%20Check%20-%20Java%20Script
