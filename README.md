@@ -50,7 +50,7 @@ Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
-[Default Jellyfin Without Date Check - Java Script.txt](https://github.com/user-attachments/files/32836224/Default.Jellyfin.Without.Date.Check.-.Java.Script.txt)
+https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20With%20Date%20Check%20-%20Java%20Script
 
 ---
 
