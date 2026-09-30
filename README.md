@@ -41,6 +41,8 @@ In order for the script to function and be implemented you will need to have dow
   ---
 
   ## Default Jellyfin Without Date Check
+
+Copy and past the following CSS into Admin Dashboard -> Branding -> Custom CSS.
   
 [Default Jellyfin Without Date Check - CSS.txt](https://github.com/user-attachments/files/32836223/Default.Jellyfin.Without.Date.Check.-.CSS.txt)
 
