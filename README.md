@@ -44,11 +44,11 @@ In order for the script to function and be implemented you will need to have dow
 
   ## Default Jellyfin Without Date Check
 
-Copy and past the following CSS into Admin Dashboard -> Branding -> Custom CSS.
+Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
   
 [Default Jellyfin Without Date Check - CSS.txt](https://github.com/user-attachments/files/32836223/Default.Jellyfin.Without.Date.Check.-.CSS.txt)
 
-Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
+Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
 [Default Jellyfin Without Date Check - Java Script.txt](https://github.com/user-attachments/files/32836224/Default.Jellyfin.Without.Date.Check.-.Java.Script.txt)
 
@@ -60,7 +60,7 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 
 [Default Jellyfin With Date Check - CSS.txt](https://github.com/user-attachments/files/32836696/Default.Jellyfin.With.Date.Check.-.CSS.txt)
 
-Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
+Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
 [Uploading Default Jellyfin With Date Check - Java Script.txt…]()
 
@@ -72,7 +72,7 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 
 [Uploading Elegantfin Without Date Check - CSS.txt…]()
 
-Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
+Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
 [Uploading Elegantfin Without Date Check - Java Script.txt…]()
 
@@ -84,6 +84,6 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 
 [Uploading Elegantfin With Date Check - CSS.txt…]()
 
-Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.**.
+Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
 [Elegantfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32836878/Elegantfin.With.Date.Check.-.Java.Script.txt)
