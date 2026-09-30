@@ -3,7 +3,8 @@
 
 Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage! This script injects three customizable fear-tier doors (**Not Scary**, **Scary**, and **Very Scary**) onto your dashboard. Clicking any door queries your server for movies and TV episodes tagged with that fear level and instantly launches a random pick.
 
-![Halloween Doors Preview](https://via.placeholder.com/800x400.png?text=Halloween+Shuffle+Doors+Preview) *(Replace with a screenshot of your doors!)*
+<img width="1792" height="633" alt="Screenshot 2026-09-29 220046" src="https://github.com/user-attachments/assets/ee468596-4289-4d8e-95d4-06aa76f908eb" />
+
 
 ---
 
