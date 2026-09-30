@@ -62,7 +62,7 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
-
+Default Jellyfin With Date Check - Java Script
 
 ---
 
