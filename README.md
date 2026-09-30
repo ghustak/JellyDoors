@@ -18,7 +18,7 @@ Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage
 
 ## Step 1: Download and Install Prerequistes
 In order for the script to function and be implemented you will need to have download and installed both the:
-  - File Transformation Plugin: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
+  - File Transformation Plugin: https://github.com/IAmParadox27/jellyfin-plugin-file-transformation
   - Jellyfin Java Script Injector: https://github.com/n00bcodr/Jellyfin-JavaScript-Injector
 
 ---
