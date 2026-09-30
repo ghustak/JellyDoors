@@ -45,8 +45,8 @@ In order for the script to function and be implemented you will need to have dow
   ## Default Jellyfin Without Date Check
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
-  
-[Default Jellyfin Without Date Check - CSS.txt](https://github.com/user-attachments/files/32836223/Default.Jellyfin.Without.Date.Check.-.CSS.txt)
+ 
+ https://github.com/ghustak/JellyDoors/blob/main/Default%20Jellyfin%20Without%20Date%20Check%20-%20CSS
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
