@@ -70,11 +70,11 @@ Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector
 
 Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS**.
 
-[Uploading Elegantfin Without Date Check - CSS.txt…]()
+
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
-[Uploading Elegantfin Without Date Check - Java Script.txt…]()
+
 
 ---
 
@@ -82,7 +82,7 @@ Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector
 
 Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS**.
 
-[Uploading Elegantfin With Date Check - CSS.txt…]()
+
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
 
