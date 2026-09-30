@@ -38,6 +38,8 @@ In order for the script to function and be implemented you will need to have dow
   3. Elegantfin Without Date Check
   4. Elegantfin With Date Check
 
+(Note: The CSS code will contain several long url strings. These strings link to the host site for the door images. Ensure you have copied the full code block or you may not have a fully functioning setup.)
+
   ---
 
   ## Default Jellyfin Without Date Check
