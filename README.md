@@ -1,4 +1,4 @@
-[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32837430/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32837327/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)# 🎃 Halloween "Shuffle Doors" for Jellyfin (HBO Max Style)
+[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32837503/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32837430/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)[Default Jellyfin With Date Check - Java Script.txt](https://github.com/user-attachments/files/32837327/Default.Jellyfin.With.Date.Check.-.Java.Script.txt)# 🎃 Halloween "Shuffle Doors" for Jellyfin (HBO Max Style)
 
 Bring the HBO Max Halloween "Shuffle Doors" experience to your Jellyfin homepage! This script injects three customizable fear-tier doors (**Not Scary**, **Scary**, and **Very Scary**) onto your dashboard. Clicking any door queries your server for movies and TV episodes tagged with that fear level and instantly launches a random pick.
 
@@ -61,8 +61,6 @@ Copy and past the following CSS into **Admin Dashboard -> Branding -> Custom CSS
 [Default Jellyfin With Date Check - CSS.txt](https://github.com/user-attachments/files/32836696/Default.Jellyfin.With.Date.Check.-.CSS.txt)
 
 Copy and past the following CSS into **Admin Dashboard -> Plugins -> JS InJector -> Add Script**.
-
-Default Jellyfin With Date Check - Java Script
 
 ---
 
